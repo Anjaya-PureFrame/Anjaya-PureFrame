@@ -11,7 +11,7 @@
 
 ```
 # Lang?
-Lua | HTML | CSS | JavaScript | Pawn
+Lua | HTML | CSS | JavaScript | Pawn | Python
 ```
 <br>
 
